@@ -1,6 +1,4 @@
 # LangChain-Ai-Assistant
-# LangChain AI Assistant
-
 A simple AI Assistant built using **LangChain** and **OpenAI**. This project demonstrates the core concepts of LangChain, including Chat Models, Prompt Templates, model invocation, and the basic LangChain workflow.
 ## Project Objective
 The objective of this project is to build a simple AI assistant that:
